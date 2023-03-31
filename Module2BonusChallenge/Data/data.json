@@ -1,0 +1,48 @@
+[
+    {"id": 101,
+    "name": "You miss 100% of the shots you don't take.",
+     "author": "Wayne Gretzky",
+     "image": "ambition",
+     "description": [
+         "Known as 'The Great One', Wayne Gretzky knew a thing or two about winning.",
+         "He holds the NHL records for points and assists, and led also in goals until Alexander Ovechkin recently passed him",
+         "He still has more assists than any other player has points. Unbelievable",
+         "He was pretty much the Michael Jordan of hockey, although if Jordan had played hockey he probably would have been better"
+     ]
+    },
+    {"id": 102,
+    "name": "Life is 10% of what happens to me and 90% of how I react to it",
+     "author": "Charles Swindoll",
+     "image": "calm",
+     "description": [
+         "We are all faced with a series of great opportunities brilliantly disguised as impossible situations",
+         "Each day of our lives we make deposits in the memory banks of our children",
+         "The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day",
+         "When you have a vision it affects your attitude. Your attitude is optimistic rather than pessimistic",
+         "When I think of vision, I have in mind the ability to see above and beyond the majority"
+     ]
+    },
+    {"id": 103,
+    "name": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+     "author": "Henry David Thoreau",
+     "image": "focus",
+     "description": [
+         "When we are focused on our dreams, we are much more likely to accomplish that dream. If you can dream it you can do it",
+         "It is too easy sometimes to settle for 'good enough', when we really should be asking ourselves, 'how is this helping me accomplish my dreams?'",
+         "Henry David Thoreau was an amazing writer, right up there with Edgar Allen Poe and Nathaniel Hawthorne",
+         "He attended Princeton in the 15th Century and shared a class with the great Nick Saban. That class was called Pottery 101.",
+         "His favorite book was Harry Potter, and he became good friends with J.K. Rowling and often wrote poems with her. Good times."
+     ]
+    },
+    {"id": 104,
+    "name": "Everything you've ever wanted is on the other side of fear.",
+     "author": "George Adair",
+     "image": "reflect",
+     "description": [
+         "What an amazing quote this is. It is tough to face our fears, but when we do, we are better for it.",
+         "Fear is an illusion. Once you expose it as such, it will no longer hinder you.",
+         "God tells us not to fear, but instead put our trust in him. The outcome is already determined. He has a plan for everything and that is great.",
+         "What a wonderful thought that we do not have to fear. Breaking through our fears makes us confident to do just about anything we want to do"
+     ]
+    }
+]
