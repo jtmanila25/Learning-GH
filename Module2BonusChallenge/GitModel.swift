@@ -8,5 +8,5 @@
 import Foundation
 
 struct GitModel {
-    var name: String?
+    var name: String = "Jordan"
 }
